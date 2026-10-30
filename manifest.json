@@ -1,0 +1,697 @@
+{
+  "ka": {
+    "pertemuan-09": [
+      {
+        "file_name": "01_sintaks_dasar.php",
+        "rel_path": "ka/pertemuan-09/01_sintaks_dasar.php",
+        "tag": "Lembar P9.1",
+        "info": "6 Baris Kode — Murni PHP",
+        "lines": 6,
+        "title": "Sintaks Dasar & Output Server Akuntansi",
+        "desc": "Murni PHP - Perintah output server dan tag dasar PHP"
+      },
+      {
+        "file_name": "02_variabel_tipe_data.php",
+        "rel_path": "ka/pertemuan-09/02_variabel_tipe_data.php",
+        "tag": "Lembar P9.2",
+        "info": "12 Baris Kode — Murni PHP",
+        "lines": 12,
+        "title": "Variabel & Tipe Data Jurnal Transaksi",
+        "desc": "Murni PHP - Tipe data string, float, integer, boolean"
+      },
+      {
+        "file_name": "03_aritmatika_html.php",
+        "rel_path": "ka/pertemuan-09/03_aritmatika_html.php",
+        "tag": "Lembar P9.3",
+        "info": "23 Baris Kode — HTML + PHP",
+        "lines": 23,
+        "title": "Kalkulasi Aritmatika Penjualan & PPN",
+        "desc": "HTML + PHP - Menghitung subtotal, diskon, dan PPN 11%"
+      },
+      {
+        "file_name": "04_logika_css_php.php",
+        "rel_path": "ka/pertemuan-09/04_logika_css_php.php",
+        "tag": "Lembar P9.4",
+        "info": "30 Baris Kode — HTML + CSS + PHP",
+        "lines": 30,
+        "title": "Evaluasi Logika Tagihan & Styling Card",
+        "desc": "HTML + CSS + PHP - Desain kartu tagihan responsif"
+      },
+      {
+        "file_name": "05_interaktif_dasar.php",
+        "rel_path": "ka/pertemuan-09/05_interaktif_dasar.php",
+        "tag": "Lembar P9.5",
+        "info": "36 Baris Kode — HTML + CSS + JS + PHP",
+        "lines": 36,
+        "title": "Input Interaktif & Event JavaScript",
+        "desc": "HTML + CSS + JS + PHP - Interaksi real-time di sisi klien"
+      },
+      {
+        "file_name": "06_katalog_realtime.php",
+        "rel_path": "ka/pertemuan-09/06_katalog_realtime.php",
+        "tag": "Lembar P9.6",
+        "info": "52 Baris Kode — HTML + CSS + JS + PHP",
+        "lines": 52,
+        "title": "Daftar Inventaris & Kalkulasi Pilihan",
+        "desc": "HTML + CSS + JS + PHP - Pilihan item dan kalkulasi harga otomatis"
+      },
+      {
+        "file_name": "07_pos_kasir_lengkap.php",
+        "rel_path": "ka/pertemuan-09/07_pos_kasir_lengkap.php",
+        "tag": "Lembar P9.7",
+        "info": "70 Baris Kode — Full Stack: PHP + HTML + CSS + JS",
+        "lines": 69,
+        "title": "POS Kasir Akuntansi & Validasi Stok",
+        "desc": "Full Stack PHP + JS - Aplikasi kasir mini dengan validasi transaksi"
+      }
+    ],
+    "pertemuan-10": [
+      {
+        "file_name": "p10_1_laba_bersih.php",
+        "rel_path": "ka/pertemuan-10/p10_1_laba_bersih.php",
+        "tag": "Lembar P10.1",
+        "info": "16 Baris Kode — Murni PHP (Maksimal 20 Baris)",
+        "lines": 16,
+        "title": "Kalkulasi Laba Bersih Operasional",
+        "desc": "Murni PHP - Perhitungan margin laba dan formatting mata uang"
+      },
+      {
+        "file_name": "p10_2_skor_kredit.php",
+        "rel_path": "ka/pertemuan-10/p10_2_skor_kredit.php",
+        "tag": "Lembar P10.2",
+        "info": "27 Baris Kode — Murni PHP (Maksimal 30 Baris)",
+        "lines": 27,
+        "title": "Evaluasi Skor Kredit & Bunga Pinjaman",
+        "desc": "Murni PHP - Struktur percabangan if-elseif finansial"
+      },
+      {
+        "file_name": "p10_3_penyusutan_aset.php",
+        "rel_path": "ka/pertemuan-10/p10_3_penyusutan_aset.php",
+        "tag": "Lembar P10.3",
+        "info": "28 Baris Kode — Murni PHP (Maksimal 30 Baris)",
+        "lines": 28,
+        "title": "Tabel Penyusutan Garis Lurus Aset",
+        "desc": "Murni PHP - Perulangan for untuk depresiasi aset tetap"
+      },
+      {
+        "file_name": "p10_4_kalkulator_pph.php",
+        "rel_path": "ka/pertemuan-10/p10_4_kalkulator_pph.php",
+        "tag": "Lembar P10.4",
+        "info": "45 Baris Kode — HTML + CSS + JS + PHP (Kalkulator PPh)",
+        "lines": 45,
+        "title": "Kalkulator Pajak PPh Final UMKM 0.5%",
+        "desc": "HTML + CSS + JS + PHP - Perhitungan pajak bruto bulanan"
+      },
+      {
+        "file_name": "p10_5_buku_kas_mutasi.php",
+        "rel_path": "ka/pertemuan-10/p10_5_buku_kas_mutasi.php",
+        "tag": "Lembar P10.5",
+        "info": "44 Baris Kode — HTML + CSS + JS + PHP (Buku Kas Mutasi)",
+        "lines": 44,
+        "title": "Rekapitulasi Buku Kas Mutasi Operasional",
+        "desc": "HTML + CSS + JS + PHP - Rekapitulasi debet, kredit, dan saldo berjalan"
+      }
+    ],
+    "pertemuan-11": [
+      {
+        "file_name": "p11_1_filter_akun.php",
+        "rel_path": "ka/pertemuan-11/p11_1_filter_akun.php",
+        "tag": "Lembar P11.1",
+        "info": "15 Baris Kode — Murni PHP (Maksimal 20 Baris)",
+        "lines": 15,
+        "title": "Pemrosesan Parameter Akun Buku Besar",
+        "desc": "Metode GET - Parameter URL filter kategori akun"
+      },
+      {
+        "file_name": "p11_2_voucher_kas.php",
+        "rel_path": "ka/pertemuan-11/p11_2_voucher_kas.php",
+        "tag": "Lembar P11.2",
+        "info": "29 Baris Kode — Murni PHP (Maksimal 30 Baris)",
+        "lines": 29,
+        "title": "Validasi Voucher Kas Masuk/Keluar",
+        "desc": "Metode POST - Validasi input token dan nominal kas"
+      },
+      {
+        "file_name": "p11_3_cari_rekening.php",
+        "rel_path": "ka/pertemuan-11/p11_3_cari_rekening.php",
+        "tag": "Lembar P11.3",
+        "info": "38 Baris Kode — HTML + CSS + JS + PHP (Pencarian Akun GET)",
+        "lines": 38,
+        "title": "Form Pencarian Rekening Bank & Jurnal",
+        "desc": "HTML + CSS + JS + PHP - Pencarian data akun interaktif"
+      },
+      {
+        "file_name": "p11_4_entri_jurnal.php",
+        "rel_path": "ka/pertemuan-11/p11_4_entri_jurnal.php",
+        "tag": "Lembar P11.4",
+        "info": "46 Baris Kode — HTML + CSS + JS + PHP (Entri Jurnal Kas)",
+        "lines": 46,
+        "title": "Form Entri Mutasi Kas ke Jurnal",
+        "desc": "HTML + CSS + JS + PHP - Entri debit/kredit dengan validasi balance"
+      },
+      {
+        "file_name": "p11_5_faktur_tagihan.php",
+        "rel_path": "ka/pertemuan-11/p11_5_faktur_tagihan.php",
+        "tag": "Lembar P11.5",
+        "info": "42 Baris Kode — HTML + CSS + JS + PHP (Faktur Tagihan B2B)",
+        "lines": 42,
+        "title": "Aplikasi Penerbitan Faktur Penjualan B2B",
+        "desc": "HTML + CSS + JS + PHP - Perhitungan faktur invoice komersial"
+      }
+    ],
+    "pertemuan-12": [
+      {
+        "file_name": "p12_1_koneksi_select_kas.php",
+        "rel_path": "ka/pertemuan-12/p12_1_koneksi_select_kas.php",
+        "tag": "Lembar P12.1",
+        "info": "30 Baris Kode — MySQL + PHP (Maksimal 30 Baris)",
+        "lines": 30,
+        "title": "Koneksi MySQL & Saldo Finansial",
+        "desc": "MySQL + PHP - Koneksi db_akuntansi, SELECT, dan SUM agregasi"
+      },
+      {
+        "file_name": "p12_2_insert_form_kas.php",
+        "rel_path": "ka/pertemuan-12/p12_2_insert_form_kas.php",
+        "tag": "Lembar P12.2",
+        "info": "29 Baris Kode — MySQL + PHP (Maksimal 30 Baris)",
+        "lines": 29,
+        "title": "Entri Kasir via Prepared Statements",
+        "desc": "MySQL + PHP - INSERT INTO kas_pabrik dengan keamanan Anti-SQLi"
+      }
+    ],
+    "pertemuan-13": [
+      {
+        "file_name": "p13_1_crud_create_read.php",
+        "rel_path": "ka/pertemuan-13/p13_1_crud_create_read.php",
+        "tag": "Lembar P13.1",
+        "info": "30 Baris Kode — MySQL + PHP (Maksimal 30 Baris)",
+        "lines": 30,
+        "title": "Master Rekening: CREATE & READ",
+        "desc": "MySQL + PHP - Auto-DDL tabel, form input dan tabel laporan saldo"
+      },
+      {
+        "file_name": "p13_2_crud_update_delete.php",
+        "rel_path": "ka/pertemuan-13/p13_2_crud_update_delete.php",
+        "tag": "Lembar P13.2",
+        "info": "30 Baris Kode — MySQL + PHP (Maksimal 30 Baris)",
+        "lines": 30,
+        "title": "Master Rekening: UPDATE & DELETE",
+        "desc": "MySQL + PHP - Ubah saldo akun dan hapus data dengan konfirmasi"
+      }
+    ],
+    "pertemuan-14": [
+      {
+        "file_name": "p14_1_login_session.php",
+        "rel_path": "ka/pertemuan-14/p14_1_login_session.php",
+        "tag": "Lembar P14.1",
+        "info": "30 Baris Kode — HTML + CSS + PHP (Maksimal 30 Baris)",
+        "lines": 30,
+        "title": "Login Operator Kasir & Anti-Fixation",
+        "desc": "HTML + CSS + PHP - Autentikasi sesi dan regenerasi session ID"
+      },
+      {
+        "file_name": "p14_2_session_guard_logout.php",
+        "rel_path": "ka/pertemuan-14/p14_2_session_guard_logout.php",
+        "tag": "Lembar P14.2",
+        "info": "29 Baris Kode — HTML + CSS + JS + PHP (Maksimal 30 Baris)",
+        "lines": 29,
+        "title": "Session Guard, Saldo Terbatas & Logout",
+        "desc": "HTML + CSS + JS + PHP - Proteksi hak akses halaman dan terminasi sesi"
+      }
+    ],
+    "pertemuan-15": [
+      {
+        "file_name": "p15_1_mini_sia_transaksi.php",
+        "rel_path": "ka/pertemuan-15/p15_1_mini_sia_transaksi.php",
+        "tag": "Lembar P15.1",
+        "info": "30 Baris Kode — HTML + CSS + JS + PHP + MySQL (Maksimal 30 Baris)",
+        "lines": 30,
+        "title": "Mini SIA: Entri Transaksi Terintegrasi",
+        "desc": "Full Stack - Auto-DDL, validasi JS, dan Prepared Statements INSERT"
+      },
+      {
+        "file_name": "p15_2_mini_sia_rekap_audit.php",
+        "rel_path": "ka/pertemuan-15/p15_2_mini_sia_rekap_audit.php",
+        "tag": "Lembar P15.2",
+        "info": "30 Baris Kode — HTML + CSS + JS + PHP + MySQL (Maksimal 30 Baris)",
+        "lines": 30,
+        "title": "Mini SIA: Laporan Rekap & Audit Kas",
+        "desc": "Full Stack - Rekap saldo kas, agregasi PSAK, dan eliminasi audit"
+      }
+    ]
+  },
+  "si": {
+    "pertemuan-09": [
+      {
+        "file_name": "01_sintaks_dasar.php",
+        "rel_path": "si/pertemuan-09/01_sintaks_dasar.php",
+        "tag": "Lembar P9.1",
+        "info": "6 Baris Kode — Murni PHP",
+        "lines": 6,
+        "title": "Sintaks Dasar & Perintah Output Server",
+        "desc": "Murni PHP - Perintah echo server dan integrasi instruksi PHP"
+      },
+      {
+        "file_name": "02_variabel_tipe_data.php",
+        "rel_path": "si/pertemuan-09/02_variabel_tipe_data.php",
+        "tag": "Lembar P9.2",
+        "info": "12 Baris Kode — Murni PHP",
+        "lines": 12,
+        "title": "Deklarasi Variabel & Tipe Data Produk",
+        "desc": "Murni PHP - Tipe data string, int, float, bool inventaris"
+      },
+      {
+        "file_name": "03_aritmatika_html.php",
+        "rel_path": "si/pertemuan-09/03_aritmatika_html.php",
+        "tag": "Lembar P9.3",
+        "info": "23 Baris Kode — HTML + PHP",
+        "lines": 23,
+        "title": "Kalkulasi Aritmatika & Markup HTML",
+        "desc": "HTML + PHP - Kalkulasi total nilai inventaris barang pabrik"
+      },
+      {
+        "file_name": "04_logika_css_php.php",
+        "rel_path": "si/pertemuan-09/04_logika_css_php.php",
+        "tag": "Lembar P9.4",
+        "info": "30 Baris Kode — HTML + CSS + PHP",
+        "lines": 30,
+        "title": "Logika Perbandingan & Kartu Styling CSS",
+        "desc": "HTML + CSS + PHP - Styling kartu produk dengan status ketersediaan"
+      },
+      {
+        "file_name": "05_interaktif_dasar.php",
+        "rel_path": "si/pertemuan-09/05_interaktif_dasar.php",
+        "tag": "Lembar P9.5",
+        "info": "36 Baris Kode — HTML + CSS + JS + PHP",
+        "lines": 36,
+        "title": "Input Interaktif & Event JavaScript",
+        "desc": "HTML + CSS + JS + PHP - Kontrol input dinamis pada katalog suku cadang"
+      },
+      {
+        "file_name": "06_katalog_realtime.php",
+        "rel_path": "si/pertemuan-09/06_katalog_realtime.php",
+        "tag": "Lembar P9.6",
+        "info": "52 Baris Kode — HTML + CSS + JS + PHP",
+        "lines": 52,
+        "title": "Katalog Dinamis & Kalkulasi Real-Time",
+        "desc": "HTML + CSS + JS + PHP - Perhitungan total belanja otomatis di browser"
+      },
+      {
+        "file_name": "07_pos_kasir_lengkap.php",
+        "rel_path": "si/pertemuan-09/07_pos_kasir_lengkap.php",
+        "tag": "Lembar P9.7",
+        "info": "69 Baris Kode — Full Stack: PHP + HTML + CSS + JS",
+        "lines": 69,
+        "title": "Point of Sale Kasir Lengkap & Validasi Stok",
+        "desc": "Full Stack PHP - Kasir suku cadang lengkap dengan verifikasi stok"
+      }
+    ],
+    "pertemuan-10": [
+      {
+        "file_name": "01_percabangan_dasar.php",
+        "rel_path": "si/pertemuan-10/01_percabangan_dasar.php",
+        "tag": "Lembar P10.1",
+        "info": "6 Baris Kode — Murni PHP",
+        "lines": 6,
+        "title": "Struktur Percabangan Dasar If-Else",
+        "desc": "Murni PHP - Evaluasi kondisi logika batas kritis"
+      },
+      {
+        "file_name": "02_switch_match_tier.php",
+        "rel_path": "si/pertemuan-10/02_switch_match_tier.php",
+        "tag": "Lembar P10.2",
+        "info": "14 Baris Kode — Murni PHP",
+        "lines": 14,
+        "title": "Match Expression PHP 8+ Modern",
+        "desc": "Murni PHP - Evaluasi tier pelanggan industri dengan sintaks match"
+      },
+      {
+        "file_name": "03_perulangan_tabel.php",
+        "rel_path": "si/pertemuan-10/03_perulangan_tabel.php",
+        "tag": "Lembar P10.3",
+        "info": "24 Baris Kode — HTML + PHP",
+        "lines": 24,
+        "title": "Perulangan For Loop dalam Tabel HTML",
+        "desc": "HTML + PHP - Render baris tabel batch produksi terhitung"
+      },
+      {
+        "file_name": "04_fungsi_typehint_card.php",
+        "rel_path": "si/pertemuan-10/04_fungsi_typehint_card.php",
+        "tag": "Lembar P10.4",
+        "info": "38 Baris Kode — HTML + CSS + PHP",
+        "lines": 38,
+        "title": "Fungsi Modular, Type Hinting & Card UI",
+        "desc": "HTML + CSS + PHP - Penerapan type declarations dan reusable card"
+      },
+      {
+        "file_name": "05_array_interaktif.php",
+        "rel_path": "si/pertemuan-10/05_array_interaktif.php",
+        "tag": "Lembar P10.5",
+        "info": "39 Baris Kode — HTML + CSS + JS + PHP",
+        "lines": 40,
+        "title": "Array Asosiatif & Event Interaktif DOM",
+        "desc": "HTML + CSS + JS + PHP - Manipulasi data spesifikasi part mesin"
+      },
+      {
+        "file_name": "06_katalog_foreach_filter.php",
+        "rel_path": "si/pertemuan-10/06_katalog_foreach_filter.php",
+        "tag": "Lembar P10.6",
+        "info": "56 Baris Kode — HTML + CSS + JS + PHP",
+        "lines": 56,
+        "title": "Foreach Array Multidimensi & Pencarian",
+        "desc": "HTML + CSS + JS + PHP - Filter data real-time berbasis array nested"
+      },
+      {
+        "file_name": "07_pos_kasir_lengkap.php",
+        "rel_path": "si/pertemuan-10/07_pos_kasir_lengkap.php",
+        "tag": "Lembar P10.7",
+        "info": "73 Baris Kode — Full Stack: PHP + HTML + CSS + JS",
+        "lines": 73,
+        "title": "Mini POS Kasir Terintegrasi & Validasi Saldo",
+        "desc": "Full Stack PHP - Aplikasi kasir komprehensif dengan validasi saldo pembayaran"
+      }
+    ],
+    "pertemuan-11": [
+      {
+        "file_name": "p11_1_katalog_part.php",
+        "rel_path": "si/pertemuan-11/p11_1_katalog_part.php",
+        "tag": "Lembar P11.1",
+        "info": "18 Baris Kode — HTML + CSS + JS + PHP (GET Dasar)",
+        "lines": 18,
+        "title": "Form Pencarian Suku Cadang Mesin",
+        "desc": "Metode GET - Alur pemrosesan form pencarian parameter URL"
+      },
+      {
+        "file_name": "p11_2_kalkulator_material.php",
+        "rel_path": "si/pertemuan-11/p11_2_kalkulator_material.php",
+        "tag": "Lembar P11.2",
+        "info": "39 Baris Kode — HTML + CSS + JS + PHP (POST & Keamanan Dasar)",
+        "lines": 39,
+        "title": "Kalkulator Batch Produksi & Keamanan",
+        "desc": "Metode POST - Sanitasi input float/int dan validasi form"
+      },
+      {
+        "file_name": "p11_3_geometri_plat_pabrik.php",
+        "rel_path": "si/pertemuan-11/p11_3_geometri_plat_pabrik.php",
+        "tag": "Lembar P11.3",
+        "info": "68 Baris Kode — HTML + CSS + JS DOM + PHP (Geometri Pabrik)",
+        "lines": 68,
+        "title": "Kalkulator Geometri Plat Lantai Pabrik",
+        "desc": "Menengah - Toggle interaktif JS dan formula luas/keliling"
+      },
+      {
+        "file_name": "p11_4_pemesanan_b2b.php",
+        "rel_path": "si/pertemuan-11/p11_4_pemesanan_b2b.php",
+        "tag": "Lembar P11.4",
+        "info": "67 Baris Kode — HTML + CSS + JS + PHP (Sistem B2B & Anti-SQLi)",
+        "lines": 67,
+        "title": "Sistem Pemesanan Material B2B Anti-Injeksi",
+        "desc": "Lanjutan - Pertahanan regex whitelist anti-SQLi & anti-XSS"
+      }
+    ],
+    "pertemuan-12": [
+      {
+        "file_name": "p12_1_cookie_tema.php",
+        "rel_path": "si/pertemuan-12/p12_1_cookie_tema.php",
+        "tag": "Lembar P12.1",
+        "info": "Tepat 20 Baris Kode — HTML + CSS + JS + PHP (Cookie Terproteksi)",
+        "lines": 20,
+        "title": "Preferensi Terminal Gudang via Cookie",
+        "desc": "Cookie Klien - Penyimpanan preferensi tampilan dark/light aman"
+      },
+      {
+        "file_name": "p12_2_session_auth.php",
+        "rel_path": "si/pertemuan-12/p12_2_session_auth.php",
+        "tag": "Lembar P12.2",
+        "info": "Tepat 30 Baris Kode — HTML + CSS + JS + PHP (Sesi Server & Anti-Fixation)",
+        "lines": 30,
+        "title": "Autentikasi Inventaris Gudang Pabrik",
+        "desc": "Session Guard - Regenerasi ID sesi, proteksi login, dan clean logout"
+      }
+    ],
+    "pertemuan-13": [
+      {
+        "file_name": "p13_1_katalog_part.php",
+        "rel_path": "si/pertemuan-13/p13_1_katalog_part.php",
+        "tag": "Lembar P13.1",
+        "info": "Tepat 29 Baris Kode — PHP + MySQLi + HTML (Koneksi & READ Data)",
+        "lines": 29,
+        "title": "Katalog Suku Cadang (MySQL READ & Auto-DDL)",
+        "desc": "MySQL + PHP - Auto-DDL tabel part_mesin dan kueri data terurut"
+      },
+      {
+        "file_name": "p13_2_crud_part.php",
+        "rel_path": "si/pertemuan-13/p13_2_crud_part.php",
+        "tag": "Lembar P13.2",
+        "info": "Tepat 30 Baris Kode — PHP + Prepared Statements + HTML (CREATE & DELETE)",
+        "lines": 30,
+        "title": "Pengelolaan Entri & Eliminasi Suku Cadang",
+        "desc": "MySQL + PHP - Operasi CREATE, DELETE, dan Prepared Statements Anti-SQLi"
+      }
+    ],
+    "pertemuan-14": [
+      {
+        "file_name": "p14_1_secure_auth_hash.php",
+        "rel_path": "si/pertemuan-14/p14_1_secure_auth_hash.php",
+        "tag": "P14.1",
+        "info": "Maksimal 30 Baris Code",
+        "lines": 30,
+        "title": "Secure Authentication & Session Guard",
+        "desc": "Keamanan Siber - Bcrypt Password Hashing dan regenerasi sesi OWASP"
+      },
+      {
+        "file_name": "p14_2_secure_data_defense.php",
+        "rel_path": "si/pertemuan-14/p14_2_secure_data_defense.php",
+        "tag": "P14.2",
+        "info": "Maksimal 30 Baris Code",
+        "lines": 30,
+        "title": "Defense in Depth: Anti-SQLi & Anti-XSS",
+        "desc": "Keamanan Siber - PDO Prepared Statements parameter binding dan htmlspecialchars"
+      }
+    ],
+    "pertemuan-15": [
+      {
+        "file_name": "p15_1_ethical_sandbox_test.php",
+        "rel_path": "si/pertemuan-15/p15_1_ethical_sandbox_test.php",
+        "tag": "P15.1",
+        "info": "Maksimal 30 Baris Code",
+        "lines": 30,
+        "title": "Ethical Web Testing Sandbox",
+        "desc": "Forensik Web - Simulasi deteksi kerentanan IDOR dan SQL Injection Lab"
+      },
+      {
+        "file_name": "p15_2_digital_evidence_logger.php",
+        "rel_path": "si/pertemuan-15/p15_2_digital_evidence_logger.php",
+        "tag": "P15.2",
+        "info": "Maksimal 30 Baris Code",
+        "lines": 30,
+        "title": "Digital Evidence & Audit Logger",
+        "desc": "Forensik Web - Pencatatan log aktivitas user, timestamp, dan IP address"
+      }
+    ]
+  },
+  "projects": {
+    "ka_mini": {
+      "title": "Mini Projek Komputerisasi Akuntansi (MVC & OOP User Management)",
+      "description": "Aplikasi Web Arsitektur MVC & OOP untuk Manajemen Pengguna & Kasir Keuangan dengan Validasi Anti-XSS & Prepared Statements.",
+      "dir": "ka/projek-mini",
+      "entry": "ka/projek-mini/index.php",
+      "files": [
+        {
+          "file_name": "database.sql",
+          "rel_path": "ka/projek-mini/database.sql",
+          "tag": "SQL DATABASE",
+          "info": "Skema 1 Tabel 5 Kolom",
+          "lines": 18
+        },
+        {
+          "file_name": "config/Database.php",
+          "rel_path": "ka/projek-mini/config/Database.php",
+          "tag": "OOP KONEKSI",
+          "info": "Koneksi PDO Strict Mode",
+          "lines": 25
+        },
+        {
+          "file_name": "models/User.php",
+          "rel_path": "ka/projek-mini/models/User.php",
+          "tag": "MODEL CRUD",
+          "info": "CRUD Lengkap & Prepared Statements",
+          "lines": 57
+        },
+        {
+          "file_name": "controllers/UserController.php",
+          "rel_path": "ka/projek-mini/controllers/UserController.php",
+          "tag": "CONTROLLER",
+          "info": "Logika CRUD Lengkap Tanpa Login",
+          "lines": 67
+        },
+        {
+          "file_name": "views/index.php",
+          "rel_path": "ka/projek-mini/views/index.php",
+          "tag": "VIEW TABEL",
+          "info": "Tabel Data dengan CSS Rapi & Anti-XSS",
+          "lines": 67
+        },
+        {
+          "file_name": "views/create.php",
+          "rel_path": "ka/projek-mini/views/create.php",
+          "tag": "VIEW CREATE",
+          "info": "Formulir Tambah Data",
+          "lines": 50
+        },
+        {
+          "file_name": "views/edit.php",
+          "rel_path": "ka/projek-mini/views/edit.php",
+          "tag": "VIEW UPDATE",
+          "info": "Formulir Edit Data",
+          "lines": 49
+        },
+        {
+          "file_name": "index.php",
+          "rel_path": "ka/projek-mini/index.php",
+          "tag": "ROUTER",
+          "info": "Front Router 17 Baris",
+          "lines": 16
+        }
+      ],
+      "pdf_path": "docs/Praktikum Mini Projek - KA.pdf",
+      "zip_path": "downloads/mini_project_ka.zip",
+      "guide_path": "docs/Menjalankan Projek PHP di VS Code.docx"
+    },
+    "si_mini": {
+      "title": "Mini Projek Sistem Informasi (Enterprise MVC, OOP, SPK Supplier & Audit Trail)",
+      "description": "Aplikasi Web Enterprise MVC & OOP dengan OWASP Top 10 Compliance, Otentikasi Bcrypt, Algoritma SPK SAW Supplier, dan Audit Log Forensik.",
+      "dir": "si/projek-mini",
+      "entry": "si/projek-mini/index.php",
+      "files": [
+        {
+          "file_name": "database.sql",
+          "rel_path": "si/projek-mini/database.sql",
+          "tag": "DATABASE ENGINE",
+          "info": "Skema Enterprise & Audit Log",
+          "lines": 59
+        },
+        {
+          "file_name": "config/Database.php",
+          "rel_path": "si/projek-mini/config/Database.php",
+          "tag": "OOP SINGLETON",
+          "info": "Koneksi PDO Strict Mode",
+          "lines": 36
+        },
+        {
+          "file_name": "core/Controller.php",
+          "rel_path": "si/projek-mini/core/Controller.php",
+          "tag": "OOP INHERITANCE",
+          "info": "Pondasi Base Controller",
+          "lines": 52
+        },
+        {
+          "file_name": "models/AuditLog.php",
+          "rel_path": "si/projek-mini/models/AuditLog.php",
+          "tag": "INFOSEC AUDIT",
+          "info": "Append-Only Audit Engine",
+          "lines": 41
+        },
+        {
+          "file_name": "models/Supplier.php",
+          "rel_path": "si/projek-mini/models/Supplier.php",
+          "tag": "SPK & DECISION LOGIC",
+          "info": "Kalkulasi Algoritma SAW Enterprise",
+          "lines": 84
+        },
+        {
+          "file_name": "controllers/AuthController.php",
+          "rel_path": "si/projek-mini/controllers/AuthController.php",
+          "tag": "CONTROLLER AUTH",
+          "info": "Session Guard & Bcrypt Verification",
+          "lines": 70
+        },
+        {
+          "file_name": "controllers/SupplierController.php",
+          "rel_path": "si/projek-mini/controllers/SupplierController.php",
+          "tag": "CONTROLLER ORCHESTRATION",
+          "info": "Alur Bisnis & Audit Trigger",
+          "lines": 72
+        },
+        {
+          "file_name": "views/layout/header.php",
+          "rel_path": "si/projek-mini/views/layout/header.php",
+          "tag": "VIEW TEMPLATE",
+          "info": "Struktur Header & RBAC Navigation",
+          "lines": 46
+        },
+        {
+          "file_name": "views/layout/footer.php",
+          "rel_path": "si/projek-mini/views/layout/footer.php",
+          "tag": "VIEW TEMPLATE",
+          "info": "Penutup Layout & Copyright",
+          "lines": 8
+        },
+        {
+          "file_name": "views/supplier/index.php",
+          "rel_path": "si/projek-mini/views/supplier/index.php",
+          "tag": "VIEW PRESENTATION",
+          "info": "Antarmuka Data & Evaluasi SAW",
+          "lines": 62
+        },
+        {
+          "file_name": "views/audit/index.php",
+          "rel_path": "si/projek-mini/views/audit/index.php",
+          "tag": "VIEW AUDIT",
+          "info": "Antarmuka Log Forensik Enterprise",
+          "lines": 38
+        },
+        {
+          "file_name": "index.php",
+          "rel_path": "si/projek-mini/index.php",
+          "tag": "FRONT CONTROLLER",
+          "info": "Pintu Gerbang Utama & Router",
+          "lines": 25
+        },
+        {
+          "file_name": "views/auth/login.php",
+          "rel_path": "si/projek-mini/views/auth/login.php",
+          "tag": "VIEW AUTH",
+          "info": "Formulir Login Bcrypt & Validasi Keamanan",
+          "lines": 40
+        },
+        {
+          "file_name": "views/supplier/create.php",
+          "rel_path": "si/projek-mini/views/supplier/create.php",
+          "tag": "VIEW CREATE",
+          "info": "Formulir Tambah Supplier & Kriteria SPK SAW",
+          "lines": 77
+        }
+      ],
+      "pdf_path": "docs/Praktikum Mini Projek - SI.pdf",
+      "zip_path": "downloads/mini_project_si.zip",
+      "guide_path": "docs/Menjalankan Projek PHP di VS Code.docx"
+    }
+  },
+  "documents": [
+    {
+      "title": "Modul Praktikum Mini Project - Sistem Informasi",
+      "file_name": "Praktikum Mini Projek - SI.pdf",
+      "rel_path": "docs/Praktikum Mini Projek - SI.pdf",
+      "type": "PDF",
+      "size": "608 KB",
+      "desc": "Pedoman Praktikum Enterprise MVC, SPK Simple Additive Weighting, Audit Trail, & OWASP"
+    },
+    {
+      "title": "Modul Praktikum Mini Project - Komputerisasi Akuntansi",
+      "file_name": "Praktikum Mini Projek - KA.pdf",
+      "rel_path": "docs/Praktikum Mini Projek - KA.pdf",
+      "type": "PDF",
+      "size": "659 KB",
+      "desc": "Pedoman Praktikum MVC Native OOP 1 Tabel Sederhana (Manajemen Operator / Kasir)"
+    },
+    {
+      "title": "Catatan Teknis Menjalankan Projek PHP di VS Code",
+      "file_name": "Menjalankan Projek PHP di VS Code.docx",
+      "rel_path": "docs/Menjalankan Projek PHP di VS Code.docx",
+      "type": "DOCX",
+      "size": "39 KB",
+      "desc": "Panduan Ringkas Eksekusi Skrip via Terminal, Built-in Server (php -S), & Ekstensi"
+    }
+  ]
+}
